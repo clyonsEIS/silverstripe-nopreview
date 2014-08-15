@@ -1,23 +1,23 @@
 {
-	"name": "hubertusanton/silverstripe-nosplit",
-	"description": "No split in preview mode for Silverstripe",
+	"name": "clyonsEIS/silverstripe-nopreview",
+	"description": "No preview mode for Silverstripe",
 	"type": "silverstripe-module",
-	"homepage": "http://github.com/hubertusanton/silverstripe-nosplit",
+	"homepage": "http://github.com/clyonsEIS/silverstripe-nopreview",
 	"keywords": ["silverstripe", "preview"],
 	"license": "BSD-3-Clause",
 	"authors": [
 		{
-			"name": "Bart van Irsel",
-			"email": "bart@30.nl"
+			"name": "Craig Lyons"
+			"email": "clyons@execproinc.com"
 		}
 	],
 	"support": {
-		"issues": "http://github.com/hubertusanton/silverstripe-nosplit/issues"
+		"issues": "http://github.com/clyonsEIS/silverstripe-nopreview/issues"
 	},
 	"require": {
 		"silverstripe/framework": "3.*"
 	},
 	"extra": {
-		"installer-name": "nosplit"
+		"installer-name": "nopreview"
 	}
 }

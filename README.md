@@ -1,7 +1,9 @@
-# Silverstripe No Split Module
+# Silverstripe No Preview module (forked & modified No Preview module)
 
 ## Maintainer Contact
+* clyonsEIS
 
+## Original module contact
 * Bart van Irsel (Nickname: hubertusanton)
 * [Dertig Media](http://www.30.nl)
 
@@ -12,7 +14,7 @@
 
 ## Documentation
 
-Simplest module ever to hide the split mode in cms
+Simple module to disable preview capabilities in CMS
 
 ## Installation
 Place the module dir in your website root and run /dev/build?flush=all
